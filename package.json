@@ -1,0 +1,29 @@
+{
+  "name": "socketio-chat",
+  "version": "1.0.0",
+  "description": "nodeJs chat",
+  "main": "index.js",
+  "engines": {
+    "node": "13.3.0"
+  },
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js"
+  },
+  "keywords": [
+    "express",
+    "socketIO",
+    "nodejs",
+    "vuejs",
+    "chat"
+  ],
+  "author": "Roman Savinuk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
