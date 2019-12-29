@@ -1,1 +1,1 @@
-# Chat with node.js uses socketIO and Vue JS
+# Chat with node.js, socketIO and Vue JS
