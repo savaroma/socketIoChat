@@ -1,1 +1,1 @@
-# Chat with node.js uses socketIO and front made by Vue JS
+# Chat with node.js uses socketIO and Vue JS
